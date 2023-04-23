@@ -45,3 +45,6 @@ sudoku/build/app/outputs/flutter-apk
 cd build/web
 surge
 mySudokuMADPROJECT.surge.sh
+
+myecommerceexp9.surge.sh
+138.197.235.123
